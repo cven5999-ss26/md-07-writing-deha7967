@@ -2,9 +2,9 @@
 title: "An example scholarly article"
 date: today
 author:
-  - name: First Last
+  - name: Denys Hategekimana
     orcid: 0000-0000-0000-0000
-    email: me@web.org
+    email: denishategeka@gmail.com
     affiliation: 
       - name: ETH Zurich
         url: https://ethz.ch/de.html
