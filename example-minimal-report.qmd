@@ -1,10 +1,17 @@
 ---
 title: "A minimal example"
 date: today
+author: Denys Hategekimana
+format: revealjs
+execute:
+  warning: false
+editor: visual
+---
+---
+title: "A minimal example"
+date: today
 author: First Last 
-format:
-  html:
-    toc: true
+format: revealjs
 execute:
   warning: false
 editor: visual
@@ -22,6 +29,8 @@ library(ggthemes)
 library(palmerpenguins)
 library(gt)
 ```
+
+Analysis
 
 ## Species
 
